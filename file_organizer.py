@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Use Windows Downloads from WSL
-TARGET_FOLDER = "/mnt/c/Users/Shirivarshini A/Downloads"
+TARGET_FOLDER = "/mnt/c/Users/Your_Name/Downloads"
 
 FILE_TYPES = {
     "Images": [".jpg", ".jpeg", ".png", ".gif"],
