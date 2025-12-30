@@ -1,4 +1,4 @@
-Python File Organizer
+## Python File Organizer
 
 A Python-based automation tool that organizes files in a directory by categorizing them into folders based on file extensions. This project simplifies file management and improves productivity by reducing manual sorting.
 
