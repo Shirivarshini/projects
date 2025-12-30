@@ -54,14 +54,14 @@ Downloads/
 
 ## How to Run
 
-### 1.Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/python-file-organizer.git
 cd python-file-organizer
 ```
 
-### 2.Update Target Directory
+### 2. Update Target Directory
 
 In `file_organizer.py`, set the folder you want to organize:
 
@@ -72,7 +72,7 @@ TARGET_FOLDER = "/mnt/c/Users/Shirivarshini A/Downloads"
 > If using Windows + WSL, always use `/mnt/c/` path format.
 
 
-### 3.Run the Script
+### 3. Run the Script
 
 ```bash
 python file_organizer.py
