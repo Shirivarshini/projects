@@ -125,7 +125,7 @@ This project is open-source and free to use for learning and personal projects.
 ## Author
 
 **Shirivarshini A**
-Python Developer | Tech Enthusiast 
+| Tech Enthusiast 
 
 
 ### If you like this project, don’t forget to star the repo!
